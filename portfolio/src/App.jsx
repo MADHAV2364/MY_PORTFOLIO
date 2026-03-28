@@ -221,7 +221,7 @@ export default function Portfolio() {
           <p className="text-cyan-400 font-mono mb-4 text-lg">04. What's Next?</p>
           <h3 className="text-4xl md:text-5xl font-extrabold text-white mb-6">Get In Touch</h3>
           <p className="text-lg text-slate-400 mb-10 leading-relaxed">
-            Although I'm not currently looking for any new opportunities, my inbox is always open.
+            Currently I'm looking for any new opportunities, my inbox is always open.
             Whether you have a question or just want to say hi, I'll try my best to get back to you!
           </p>
 
