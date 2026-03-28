@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Optional: Keep your 3JS background fixed */
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #020617; /* Matches your slate-950 theme */
+}
